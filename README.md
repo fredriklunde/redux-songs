@@ -1,6 +1,8 @@
-Demo Redux
+## Project Description
+This project basically displays a list of songs and lets the user select one of them, which makes details for that song appear.
+The Project is a demonstration for best practises regarding Redux
 
-
+<img src="https://i.ibb.co/sQGgFG4/Sk-rmklipp.png" alt="Sk-rmklipp" border="0">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
