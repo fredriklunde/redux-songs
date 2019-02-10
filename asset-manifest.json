@@ -1,0 +1,11 @@
+{
+  "main.js": "/redux-songs/static/js/main.b4248dbe.chunk.js",
+  "main.js.map": "/redux-songs/static/js/main.b4248dbe.chunk.js.map",
+  "static/js/1.dc5578cc.chunk.js": "/redux-songs/static/js/1.dc5578cc.chunk.js",
+  "static/js/1.dc5578cc.chunk.js.map": "/redux-songs/static/js/1.dc5578cc.chunk.js.map",
+  "runtime~main.js": "/redux-songs/static/js/runtime~main.5ad7208b.js",
+  "runtime~main.js.map": "/redux-songs/static/js/runtime~main.5ad7208b.js.map",
+  "index.html": "/redux-songs/index.html",
+  "precache-manifest.8b484cb6926ef30f3536733a9cbf7a06.js": "/redux-songs/precache-manifest.8b484cb6926ef30f3536733a9cbf7a06.js",
+  "service-worker.js": "/redux-songs/service-worker.js"
+}
